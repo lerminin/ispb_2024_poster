@@ -1,6 +1,6 @@
 # ISPB 2024 poster: Reporting carbapenemase-encoding plasmid transmission to public health labs 
 
-This repository hosts the whole genome sequencing report for my poster for the [International Symposium on Plasmid Biology 2024 conference](https://smartconf.jp/content/ispb2024).
+This repository hosts the whole genome sequencing report for my poster for the [International Symposium on Plasmid Biology 2024 conference](https://smartconf.jp/content/ispb2024). To view the report, click [here](https://github.com/lerminin/ispb_2024_poster/blob/main/report.html).
 
 For more information on the RMarkdown files that were used to create this template, please contact: nicole.lerminiaux [at] phac-aspc.gc.ca
 
